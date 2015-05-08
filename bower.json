@@ -1,0 +1,18 @@
+{
+  "name": "backbone-marionette-shell",
+  "version": "0.0.1",
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "jquery": "~1.11.0",
+    "handlebars": "~2.0",
+    "jquery-migrate": "~1.2.1",
+    "bootstrap": "~3.1.1",
+    "lodash": "~2.4.1",
+    "backbone-deep-model": "~0.10.4",
+    "marionette": "~2.2.1",
+    "backbone.validation": "https://github.com/thedersen/backbone.validation/archive/v0.9.1.zip"
+  },
+  "devDependencies": {
+    "jquery-mockjax": "~1.5.3"
+  }
+}

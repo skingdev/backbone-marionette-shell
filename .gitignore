@@ -1,0 +1,12 @@
+.dev/
+.tmp/
+.user_config
+bower_components/
+dist/
+node_modules/
+# Patterns for Vim temporary files
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist

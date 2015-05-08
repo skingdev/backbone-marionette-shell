@@ -1,0 +1,6 @@
+{
+    "preset": "jquery",
+    "disallowMultipleVarDecl": false,
+    "excludeFiles": ["bower_components/**", "node_modules/**"],
+    "validateQuoteMarks": { "mark": "'", "escape": true }
+}
